@@ -18,4 +18,4 @@ The game web application provides the following functionality:
 To use the this web application, simply open the index.html file in a web browser. You can then start, reset the game times as needed.
 
 ## Conclusion
-With the combination of HTML, CSS, and JavaScript, this web application provides an interactive and user-friendly way to play the game. Feel free to customize and enhance the application further to suit your needs.
+With the combination of HTML, CSS, and JavaScript, this web application provides an interactive and user-friendly way to play the game. Feel free to customize and enhance the application further to suit your needs.   
